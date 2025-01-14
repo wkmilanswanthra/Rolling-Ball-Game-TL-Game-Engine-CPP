@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Assessment1.cpp
+G:\Work\AssignmentLK\CO 1301 Assessment 6th July\Game\Assessment1\Assessment1.cpp(108,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\Work\AssignmentLK\CO 1301 Assessment 6th July\Game\Assessment1\Assessment1.cpp(112,55): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Assessment1.vcxproj -> G:\Work\AssignmentLK\CO 1301 Assessment 6th July\Game\Assessment1\Assessment1Debug.exe
+  Copying DLLs & shaders...
